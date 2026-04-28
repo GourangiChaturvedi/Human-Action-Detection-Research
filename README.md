@@ -11,7 +11,7 @@ The project utilizes a structured pipeline to transform raw video input into act
 graph TD
     A[Webcam Video Input] --> B[Frame Pre-processing & RGB Conversion]
     B --> C[Mediapipe Holistic Landmark Detection]
-    C --> D[Spatial Coordinate Mapping - 33 Points]
+    C --> D[Coordinate Mapping - 33 Body Points]
     D --> E[Custom Gesture Recognition Logic]
     E --> F[Real-time Visual Feedback & Output]
 

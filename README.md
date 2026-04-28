@@ -18,8 +18,8 @@ graph TD
 ## ⚖️ Team Credits & Ethics
 This project was developed as a collaborative academic assignment at **Pranveer Singh Institute of Technology (PSIT), Kanpur**.
 
-* **Lead Developer & Technical Writer:** [Your Name] 
-* **Project Team Members:** [Teammate Name 1], [Teammate Name 2]
-* **Project Mentor:** [Professor's Name], Department of CSE
+* **Lead Developer & Technical Writer:** Gourangi Chaturvedi 
+* **Project Team Members:** Geetanshi Gupta,Esha Katiyar,Eshita Dwivedi
+* **Project Mentor:** Dr. Asif Ahmed,Department of Baisc Sciences and Humanities
 
 **Attribution:** Core landmark detection logic was adapted from open-source Mediapipe documentation and community repositories to facilitate this research study.

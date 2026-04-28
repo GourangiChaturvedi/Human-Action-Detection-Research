@@ -14,12 +14,13 @@ graph TD
     C --> D[Coordinate Mapping - 33 Body Points]
     D --> E[Custom Gesture Recognition Logic]
     E --> F[Real-time Visual Feedback & Output]
+```
 
 ## ⚖️ Team Credits & Ethics
 This project was developed as a collaborative academic assignment at **Pranveer Singh Institute of Technology (PSIT), Kanpur**.
 
 * **Lead Developer & Technical Writer:** Gourangi Chaturvedi 
 * **Project Team Members:** Geetanshi Gupta,Esha Katiyar,Eshita Dwivedi
-* **Project Mentor:** Dr. Asif Ahmed,Department of Baisc Sciences and Humanities
+* **Project Mentor:** Dr. Asif Ahmed,Department of Basic Sciences and Humanities
 
 **Attribution:** Core landmark detection logic was adapted from open-source Mediapipe documentation and community repositories to facilitate this research study.
